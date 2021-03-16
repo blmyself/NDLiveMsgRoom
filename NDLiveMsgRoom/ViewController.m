@@ -14,7 +14,7 @@
 #import "WHDebugToolManager.h"
 
 // 每一秒发送多少条消息
-#define MAXCOUNT  30
+#define MAXCOUNT  40
 
 @interface ViewController ()<UITextFieldDelegate, RoomMsgListDelegate>
 {
